@@ -1,0 +1,6 @@
+train: /home/dnan/Documents/yolo/project/train
+val: /home/dnan/Documents/yolo/project/val
+
+nc: 1
+
+names: ["butterfly"] 
