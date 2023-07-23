@@ -1,4 +1,9 @@
+## instalation
+
+		https://docs.ultralytics.com/quickstart/#install-ultralytics
+
 ## preparation data custom
+
 - download model pretraining
 
 		https://github.com/ultralytics/ultralytics
@@ -23,7 +28,6 @@
 		data_custom.yaml
 		classes.txt
 		yolov8m.pt
-
 
 
 ## train:
